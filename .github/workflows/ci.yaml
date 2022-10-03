@@ -1,4 +1,4 @@
-name: Push Docker image and update kustomize
+name: Push Docker image and update Kustomize
 
 on:
   push:
