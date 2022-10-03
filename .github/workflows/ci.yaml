@@ -6,6 +6,7 @@ on:
       - "main"
       - "staging"
       - "dev"
+
     paths-ignore:
       - "*.md"
       - ".vscode/**"
